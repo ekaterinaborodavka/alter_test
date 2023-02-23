@@ -1,0 +1,10 @@
+.nav-link {
+  color: #fff;
+  text-transform: uppercase;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

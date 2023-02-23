@@ -1,0 +1,16 @@
+{
+  "logIn": "Log In",
+  "logInErr": "Password or name is incorrect",
+  "сancel": "Cancel",
+  "name": "Name",
+  "password": "Password",
+  "home": "Home",
+  "news": "News",
+  "profile": "Profile",
+  "delete": "Delete",
+  "homeText": "This is the home page",
+  "posts": "Posts",
+  "postsLoad": "Load posts",
+  "user": "User",
+  "profileText": "This is your profile"
+}
